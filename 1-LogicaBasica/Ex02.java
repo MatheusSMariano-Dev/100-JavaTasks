@@ -3,7 +3,7 @@ public class Ex02 {
 
         int number1 = 100;
         int number2 = 300;
-        String Resultado = number1 + number2 + "";
+        String Resultado = number1 - number2 + "";
         System.out.println("O resultado da soma é : " + Resultado);
 
     }
