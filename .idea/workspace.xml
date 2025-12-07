@@ -24,6 +24,8 @@
     &quot;Application.Ex02.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ex03.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ex06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex07$ParOuImpar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex07.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -31,20 +33,6 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;F:/Projetos/Exercicios Diarios Em Java/JavaTasks/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Ex07$ParOuImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex07$ParOuImpar" />
-      <module name="JavaTasks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Ex07$ParOuImpar" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b35e5c8e-13d9-49b2-a8af-27a581e2b171" name="Changes" comment="" />
