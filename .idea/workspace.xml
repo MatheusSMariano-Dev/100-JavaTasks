@@ -18,21 +18,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Ex01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex07$ParOuImpar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex07.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;F:/Projetos/Exercicios Diarios Em Java/JavaTasks/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ex01.executor": "Run",
+    "Application.Ex02.executor": "Run",
+    "Application.Ex03.executor": "Run",
+    "Application.Ex06.executor": "Run",
+    "Application.Ex07$ParOuImpar.executor": "Run",
+    "Application.Ex07.executor": "Run",
+    "Application.Ex08.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "F:/Projetos/Exercicios Diarios Em Java/JavaTasks/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b35e5c8e-13d9-49b2-a8af-27a581e2b171" name="Changes" comment="" />
