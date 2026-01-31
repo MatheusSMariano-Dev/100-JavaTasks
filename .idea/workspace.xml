@@ -30,11 +30,13 @@
     "Application.Ex10.executor": "Run",
     "Application.Ex11.executor": "Run",
     "Application.Ex12.executor": "Run",
+    "Application.Ex13.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "F:/Projetos/Exercicios Diarios Em Java/JavaTasks/src/Main.java"
+    "onboarding.tips.debug.path": "F:/Projetos/Exercicios Diarios Em Java/JavaTasks/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="TaskManager">
